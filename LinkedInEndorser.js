@@ -3,9 +3,9 @@
 // @version  1
 // @grant    none
 // @match http://*/*
-// @match http://*.linkedin.com/*
-// @match http://www.linkedin.com/*
-// @match https://www.linkedin.com/*
+// @match http://*.linkedin.com/in/*
+// @match http://www.linkedin.com/in/*
+// @match https://www.linkedin.com/in/*
 // ==/UserScript==
 
 
