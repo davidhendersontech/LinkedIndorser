@@ -18,7 +18,9 @@ If I have more time I might come back and try to add these features:
 ### Disclaimer and contact
 
 I made this for fun in about an hour (coincidentally how long it took me to manually endorse everything).   
-I wanted to learn how to run external javascript on a webpage and manipulate their dom.
+I wanted to learn how to run external javascript on a webpage and manipulate their dom.   
+The script will only run on linked user profiles. Since it doesn't check if you've already endorsed   
+please disable the script when not in use. YOUVE BEEN WARNED!
 Please don't sue me LinkedIn
 Send me an email [me@davidhenderson.tech](mailto:me@davidhenderson.tech)
 Test it out! [David's Linkedin](https://www.linkedin.com/in/davidhendersontech)
