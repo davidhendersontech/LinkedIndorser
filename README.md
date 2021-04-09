@@ -1,4 +1,4 @@
-# LinkedInEndorser
+# LinkedIn-dorser
 
 Your friends are awesome! We know, you know it, potential employers don't.   
 LinkedInEndorser fixes all of that by automatically endorsing all of your    
