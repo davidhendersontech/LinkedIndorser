@@ -11,9 +11,9 @@ friends skills on their profile.
 4. Go to your coworkers LinkedIn page and watch the magic happen
 
 ### todo
-If I have more time I might come back and try to add these features:
-[] Check if skills have already been endorsed before endorsing
-[] Allow users to give a list of profiles and endorse all profiles
+If I have more time I might come back and try to add these features:   
+- [ ] Check if skills have already been endorsed before endorsing
+- [ ] Allow users to give a list of profiles and endorse all profiles
 
 ### Disclaimer and contact
 
